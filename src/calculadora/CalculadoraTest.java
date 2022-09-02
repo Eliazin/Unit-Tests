@@ -1,6 +1,6 @@
 package calculadora;
 
-public class CalculadoraTestes {
+public class CalculadoraTest {
 
 	public static void main(String[] args) {
 		Soma soma = new Soma();
