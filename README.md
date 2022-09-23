@@ -1,9 +1,9 @@
-# Teste Unitários em Java com Junit
+# Teste Unitários em Java com Junit5
 
 ## Descrição
 Esta segunda parte do projeto foi feita para realizar um treinamento para melhor conhecer os teste unitários de software feitos com a biblioteca Junit utilizando as classes de uma calculadora feitas anteriormente
 
-### Início da parte 2
+### Início dos testes Junit5
 Para começar esta parte é necessário adicionar a biblioteca Junit5 para a IDE, que pode ser feita seguindo o pass a passo nos seguintes links: https://www.360logica.com/blog/how-to-use-junit-library-in-java-project/ ; https://qualitestgroup.com/insights/technical-hub/how-to-set-up-junit-in-eclipse/ ; https://code.visualstudio.com/docs/java/java-testing (Neste caso foi utilizado a IDE Eclipse), após adicionar a biblioteca, foi feita uma nova classe chamada "CalculadoraJunitTest", no qual foram pensados e inseridos cenários para funções de soma, subtração, e multiplicação com variáveis do tipo inteiro e o uso da função "Assert", funções e cenários nos quais não foram detectados erros, porém na função divisão parte dos cenários foram encontrados erros ao utilizar variáveis de mesmo tipo, por isso foi recomendado utilizar variáveis double ou float, o que facilitou e corrigiu parte do erro, e para resolver o restante foi recomendado adicionar uma estrutura de repetição para consertar, estes passos tem como objetivo facilitar o uso de testes unitários feitos em java e esclarecer dúvidas sobre a biblioteca Junit5 e a função Assert.
 
 ![image](https://user-images.githubusercontent.com/80266374/192062563-97fb4b57-af25-4ccd-a321-897770945ddd.png)
