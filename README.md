@@ -8,3 +8,11 @@ Para começar o projeto primeiro foi desenvolvido um package com o nome calculad
 
 ![image](https://user-images.githubusercontent.com/80266374/188244649-014e8ed2-3bd3-41af-ab8f-6ef94ff89baa.png)
 ![image](https://user-images.githubusercontent.com/80266374/188244664-d30dde42-c926-4602-93e9-b5bd3383ed1e.png)
+
+
+# Teste Unitários em Java com Junit
+
+## Descrição
+Esta segunda parte do projeto foi feita para realizar um treinamento para melhor conhecer os teste unitários de software feitos com a biblioteca Junit utilizando as classes de uma calculadora feitas anteriormente
+
+### Início da parte 2
